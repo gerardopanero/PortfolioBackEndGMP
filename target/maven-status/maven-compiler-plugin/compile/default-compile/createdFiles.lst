@@ -1,0 +1,6 @@
+com\portfolioweb\gmp\Service\ImpPersonaService.class
+com\portfolioweb\gmp\GmpApplication.class
+com\portfolioweb\gmp\Entity\Persona.class
+com\portfolioweb\gmp\Interface\IPersonaService.class
+com\portfolioweb\gmp\Controller\PersonaController.class
+com\portfolioweb\gmp\Repository\IPersonaRepository.class
