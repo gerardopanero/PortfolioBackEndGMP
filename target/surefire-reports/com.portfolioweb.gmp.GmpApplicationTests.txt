@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.portfolioweb.gmp.GmpApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.076 s - in com.portfolioweb.gmp.GmpApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.616 s - in com.portfolioweb.gmp.GmpApplicationTests
